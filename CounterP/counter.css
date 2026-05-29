@@ -1,0 +1,35 @@
+#Counterr
+{
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 5em;
+color: blue;
+
+}
+
+.cont
+{
+text-align: center;
+}
+
+button
+{
+font-family: 'Courier New', Courier, monospace;
+font-size: 1em;
+padding: 10px 10px;
+color: aliceblue;
+background-color: rgb(54, 23, 228);
+cursor: pointer;
+}
+
+button:hover{
+background-color: blueviolet;
+color: black;
+
+}
+
+button:active{
+background-color: rgb(3, 196, 255);
+color: black;
+
+}
