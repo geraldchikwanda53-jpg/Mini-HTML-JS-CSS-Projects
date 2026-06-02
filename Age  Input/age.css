@@ -1,0 +1,39 @@
+#Ageinp
+{
+  border-color: rgb(199, 7, 238);
+  border-radius: 12px;
+  margin-left: 10px;
+  padding-right:-20px;
+  padding-left:5px ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#submit
+{
+border-radius: 10px 70px;
+color: black;
+padding: 3px 5px;
+background-color: rgb(240, 0, 200);
+cursor: pointer;
+font-family: 'Courier New', Courier, monospace;
+}
+
+#submit:hover
+{
+background-color: rgb(251, 247, 255);
+columns: white;
+}
+
+#submit:active
+{
+background-color: rgb(93, 7, 179);
+columns: white;
+}
+
+#message
+{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: black;
+font-size: large;
+
+}
