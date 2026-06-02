@@ -1,0 +1,32 @@
+#display{
+
+  align-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 3em;
+}
+
+#roll{
+
+  color: rgb(255, 247, 247);
+  background-color:black ;
+  align-items: center;
+  text-align: center;
+  padding: 20px 35px;
+  cursor: pointer;
+}
+
+#roll:hover{
+color: azure;
+background-color: rgb(15, 172, 172);
+
+
+}
+
+#message{
+
+ align-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 4em;
+  letter-spacing: 1.5px;
+  color: chocolate;
+}
